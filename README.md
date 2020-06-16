@@ -1,7 +1,7 @@
 # Application Scaling Adventures
 A C# .NET Framework application demonstrating methods of scaling.
 
-This project was created to dxplore ways to vertically and horizontally scale an application.
+This project was created to explore ways to vertically and horizontally scale an application.
 
 ## Related Projects/Items
 
