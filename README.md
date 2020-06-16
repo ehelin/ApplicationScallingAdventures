@@ -12,6 +12,6 @@ These items are also related to this project.
 
 ## How To Use
 
-Download the zip file and then follow instructions described <a href="https://erichelin.wordpress.com/2016/04/22/application-scaling-adventures-part-1/">here</a>.
+Download the zip file, open up in Visual Studio, clean, restore packages, build and run.
 
 
